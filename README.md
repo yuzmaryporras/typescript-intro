@@ -8,7 +8,8 @@ This is a basic TypeScript project created to reinforce core concepts of the lan
 
 - ✅ Basic types: `string`, `number`, `boolean`, `any`, `void`, `unknown`
 - ✅ Objects
-- ✅ Classes: `this`, `method`, `getters`, `async method`
+- ✅ Classes: `this`, `method`, `getters`, `async method`, `decorators`, `generics`, `dependency injection`
+
 
 ---
 
